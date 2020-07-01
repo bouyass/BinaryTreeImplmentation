@@ -1,9 +1,9 @@
 
 public class Node {
 	
-	private int value;
-	private Node left;
-	private Node right;
+	 int value;
+	 Node left;
+	 Node right;
 	
 	public Node(int value) {
 		this.value = value;
